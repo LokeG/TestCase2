@@ -1,0 +1,30 @@
+{
+    "news":[
+        {
+            "id":1,
+            "title":"News Artical 1",
+            "description":"DEscription 1",
+            "category":"sports"
+        },{
+            "id":2,
+            "title":"News Artical 2",
+            "description":"DEscription 2",
+            "category":"general"
+        },{
+            "id":3,
+            "title":"News Artical 3",
+            "description":"DEscription 3",
+            "category":"sports"
+        },{
+            "id":4,
+            "title":"News Artical 4",
+            "description":"DEscription 4",
+            "category":"general"
+        },{
+            "id":5,
+            "title":"News Artical 5",
+            "description":"DEscription 5",
+            "category":"sports 5"
+        }
+    ]
+}
